@@ -72,7 +72,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "About"
-        url = "/about/"
+        url = "/about/about-me"
         title = ""
         weight = 4
       [[languages.en.menu.main]]
@@ -80,7 +80,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Resume"
-        url = "/resume/"
+        url = "/resume/my-resume"
         title = ""
         weight = 5
       [[languages.en.menu.main]]
@@ -88,7 +88,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Projects"
-        url = "/projects/"
+        url = "/projects/my-projects"
         title = ""
         weight = 6
       [[languages.en.menu.main]]
@@ -173,7 +173,7 @@ enableEmoji = true
         Instagram = ""
         Facebook = ""
         Telegram = ""
-        Medium = "arebi.mohamed59"
+        Medium = "@arebi.mohamed59"
         Gitlab = ""
         Youtubelegacy = ""
         Youtubecustom = ""

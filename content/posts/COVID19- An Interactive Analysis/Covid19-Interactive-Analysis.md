@@ -8,7 +8,8 @@ author: "Mohammed Arebi"
 description: "A deep dive into the Coronavirus data"
 featuredImage: "/posts/COVID19- An Interactive Analysis/Coronavirus-SARS-CoV-2.jpg"
 featuredImagePreview: "/posts/COVID19- An Interactive Analysis/Coronavirus-SARS-CoV-2.jpg"
-math: true
+math:
+  enable: true
 
 tags: ["blogging", "data science","machine learning", "covid-19"]
 categories: ["Data Analysis", "Interactive","Visualisation","Linear Regression","Machine Learning"]

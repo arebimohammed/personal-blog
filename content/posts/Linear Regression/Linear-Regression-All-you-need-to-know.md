@@ -7,7 +7,8 @@ author: "Mohammed Arebi"
 description: "All you need to know"
 featuredImage: "/posts/Linear Regression/Linear-lamps.jpg"
 featuredImagePreview: "/posts/Linear Regression/Linear-lamps.jpg"
-math: true
+math:
+  enable: true
 
 tags: ["blogging", "data science","machine learning","linear regression", "python"]
 categories: ["Linear Regression","Tutorial","Machine Learning"]
