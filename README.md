@@ -25,6 +25,8 @@ This repository holds the modified website with added personal features such as 
 - [Why I started Blogging](https://arebimohammed.github.io/why-i-started-blogging/)
 - [Linear Regression - All you need to know](https://arebimohammed.github.io/linear-regression-all-you-need-to-know/)
 - [COVID-19: An Interactive Analysis](https://arebimohammed.github.io/covid19-interactive-analysis/)
+- [Polynomial Regression](https://arebimohammed.github.io/polynomial-regression/)
+- [Logistic Regression](https://arebimohammed.github.io/logistic-regression/)
 
 
 ## Copyright and License
