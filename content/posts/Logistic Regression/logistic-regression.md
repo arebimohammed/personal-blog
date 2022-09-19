@@ -1,10 +1,10 @@
 ---
 weight: 1
-title: "Logistic Regression"
+title: "Logistic Regression: With Application and Analysis on the 'Rain in Australia' Dataset"
 date: 2020-07-09T20:29:01+08:00
 draft: false
 author: "Mohammed Arebi"
-description: "All you need to know"
+description: "Details and Application"
 featuredImage: "/posts/Logistic Regression/s-curve.jpg"
 featuredImagePreview: "/posts/Logistic Regression/s-curve.jpg"
 math: true
@@ -1853,18 +1853,18 @@ y_test.value_counts()
 
 
 
-We can see that the occurences of most frequent class is 22067. So, we can calculate null accuracy by dividing 22067 by total number of occurences.
+We can see that the occurences of most frequent class is 22098. So, we can calculate null accuracy by dividing 22098 by total number of occurences.
 
 
 ```python
 # check null accuracy score
 
-null_accuracy = (22067/(22067+6372))
+null_accuracy = (22098/(22098+6341))
 
 print('Null accuracy score: {0:0.4f}'. format(null_accuracy))
 ```
 
-    Null accuracy score: 0.7759
+    Null accuracy score: 0.7770
     
 
 ##### Interpretation
