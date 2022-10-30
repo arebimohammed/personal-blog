@@ -9,7 +9,7 @@ featuredImage: "/posts/Logistic Regression/s-curve.jpg"
 featuredImagePreview: "/posts/Logistic Regression/s-curve.jpg"
 math: true
 tags: ["blogging", "data science","machine learning","logistic regression", "python"]
-categories: ["Logistic Regression","Tutorial","Machine Learning"]
+categories: ["Tutorial","Machine Learning"]
 lightgallery: true
 
 toc:

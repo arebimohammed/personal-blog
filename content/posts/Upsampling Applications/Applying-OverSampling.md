@@ -9,7 +9,7 @@ featuredImage: "/posts/Upsampling Applications/oversampling.png"
 featuredImagePreview: "/posts/Upsampling Applications/oversampling.png"
 math: true
 tags: ["blogging", "data science","machine learning","oversampling", "python"]
-categories: ["Data Preprocessing","Machine Learning"]
+categories: ["Data Preprocessing","Machine Learning", "Tutorial"]
 lightgallery: true
 
 toc:

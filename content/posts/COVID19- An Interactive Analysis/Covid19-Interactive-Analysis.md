@@ -12,7 +12,7 @@ math:
   enable: true
 
 tags: ["blogging", "data science","machine learning", "covid-19"]
-categories: ["Data Analysis", "Interactive","Visualisation","Linear Regression","Machine Learning"]
+categories: ["Data Analysis", "Interactive","Data Visualisation","Machine Learning"]
 lightgallery: true
 
 toc:

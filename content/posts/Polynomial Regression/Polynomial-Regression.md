@@ -11,7 +11,7 @@ math:
   enable: true
 
 tags: ["blogging", "data science","machine learning","polynomial regression", "python"]
-categories: ["Polynomial Regression","Tutorial","Machine Learning"]
+categories: ["Tutorial","Machine Learning"]
 lightgallery: true
 
 toc:

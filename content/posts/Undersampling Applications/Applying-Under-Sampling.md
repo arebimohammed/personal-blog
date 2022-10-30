@@ -9,7 +9,7 @@ featuredImage: "/posts/Undersampling Applications/undersample.png"
 featuredImagePreview: "/posts/Undersampling Applications/undersample.png"
 math: true
 tags: ["blogging", "data science","machine learning","undersampling", "python"]
-categories: ["Data Preprocessing","Machine Learning"]
+categories: ["Data Preprocessing","Tutorial","Machine Learning"]
 lightgallery: true
 
 toc:
