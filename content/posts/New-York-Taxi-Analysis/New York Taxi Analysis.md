@@ -4039,7 +4039,8 @@ lr_duration.summary()
 ```python
 print(f"On Average {np.round(scaler.inverse_transform(lr_duration.params['x1'].reshape(1,-1))[0][0],0)} seconds or 20 minutes contribute to a 1 dollar tip") 
 ```
-    On Average 1249.0 seconds or 20 minutes contribute to a 1 dollar tip
+    On Average 1249.0 seconds or 20 minutes contribute to a 
+    1 dollar tip
 
 This sums up our findings and this article. I have conducted other analysis as well as a prediction model for predicting the pickup density after clustering New York into several buckets/regions and binning of time. All of this can be found in the projects GitHub repository.
 
