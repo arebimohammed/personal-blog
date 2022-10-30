@@ -3368,7 +3368,7 @@ print(tabulate([table],headers=["Tip Amount Mean","Tip Amount Median","Tip Amoun
     Right Skewed Distribution which means mean > median > mode
 
     Tip Amount Mean    Tip Amount Median    Tip Amount Mode
-  -----------------  -------------------  -----------------
+    -----------------  -------------------  -----------------
           1.32447                    1                  0
 
 We see that most people don't tip.
@@ -3874,7 +3874,8 @@ We also cyclically encode the time feature (dropoff hour), this is usually done 
 ```python
 print("Coefficient of determination (R^2) of the model is: ", rf_pipe.score(X,y))
 ```
-    Coefficient of determination (R^2) of the model is: 0.962619575415421
+    Coefficient of determination (R^2) of the model is: 
+    0.962619575415421
   
 Eventually we would like to see the most important deatures that contribute to predicting the tipping amount (More on this in a future article)
 
