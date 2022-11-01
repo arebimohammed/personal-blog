@@ -26,7 +26,10 @@ This repository holds the modified website with added personal features such as 
 - [Linear Regression - All you need to know](https://arebimohammed.github.io/linear-regression-all-you-need-to-know/)
 - [COVID-19: An Interactive Analysis](https://arebimohammed.github.io/covid19-interactive-analysis/)
 - [Polynomial Regression](https://arebimohammed.github.io/polynomial-regression/)
-- [Logistic Regression](https://arebimohammed.github.io/logistic-regression/)
+- [Logistic Regression: With Application and Analysis on the 'Rain in Australia' Dataset](https://arebimohammed.github.io/logistic-regression/)
+- [Applying Under-Sampling Methods to Highly Imbalanced Data](https://arebimohammed.github.io/applying-under-sampling/)
+- [Applying Over-Sampling Methods to Highly Imbalanced Data](https://arebimohammed.github.io/applying-oversampling/)
+- [Digging Deep Into the New York Taxi Dataset](https://arebimohammed.github.io/new-york-taxi-analysis/)
 
 
 ## Copyright and License
