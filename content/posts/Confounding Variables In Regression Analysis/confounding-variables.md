@@ -14,8 +14,6 @@ tags: ["blogging", "data science","machine learning", "python", "data analysis"]
 categories: ["Data Analysis","Machine Learning", "Tutorial"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 <!--more-->
 <span style="font-size:1.125rem">

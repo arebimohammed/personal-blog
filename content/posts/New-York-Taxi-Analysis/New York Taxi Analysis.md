@@ -14,8 +14,6 @@ tags: ["blogging", "data science","machine learning","project", "python", "data 
 categories: ["Data Analysis","Machine Learning", "Big Data", "Interactive", "Data Visualisation"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 <!--more-->
 <span style="font-size:1.125rem">

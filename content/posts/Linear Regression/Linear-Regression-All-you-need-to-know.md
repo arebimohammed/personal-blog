@@ -14,8 +14,6 @@ tags: ["blogging", "data science","machine learning","linear regression", "pytho
 categories: ["Tutorial","Machine Learning"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 <!--more-->
 

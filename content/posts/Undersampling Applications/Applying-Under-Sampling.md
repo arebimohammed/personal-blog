@@ -12,8 +12,6 @@ tags: ["blogging", "data science","machine learning","undersampling", "python"]
 categories: ["Data Preprocessing","Tutorial","Machine Learning"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 
 <span style="font-size:1.125rem">

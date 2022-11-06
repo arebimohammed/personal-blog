@@ -12,8 +12,6 @@ tags: ["blogging", "data science","machine learning","logistic regression", "pyt
 categories: ["Tutorial","Machine Learning"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 
 

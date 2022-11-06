@@ -14,8 +14,6 @@ tags: ["blogging", "data science","machine learning","polynomial regression", "p
 categories: ["Tutorial","Machine Learning"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 
 

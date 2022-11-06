@@ -12,8 +12,6 @@ tags: ["blogging", "data science","machine learning"]
 categories: ["General"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 <!--more-->
 

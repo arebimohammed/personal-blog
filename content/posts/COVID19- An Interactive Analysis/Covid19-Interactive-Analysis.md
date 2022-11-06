@@ -15,8 +15,6 @@ tags: ["blogging", "data science","machine learning", "covid-19"]
 categories: ["Data Analysis", "Interactive","Data Visualisation","Machine Learning"]
 lightgallery: true
 
-toc:
-  auto: false
 ---
 <!--more-->
 <span style="font-size:1.125rem">
